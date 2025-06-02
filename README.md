@@ -20,16 +20,6 @@ Designed with clean UX/UI principles, SnapZora acts as a central hub for recruit
 
 ---
 
-✨ **Features**
-
-- 📁 Projects section with live links and GitHub repos
-- 📃 Resume download option
-- 📬 Contact form with backend integration
-- 🌙 Dark mode toggle
-- 📱 Fully responsive for all screen sizes
-
----
-
 🚀 **Getting Started Locally**
 
 ### 1. Clone the repository:
