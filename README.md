@@ -1,8 +1,5 @@
 **SnapZora** 💼
 
-SnapZora is a personal e-portfolio website built to showcase my software development projects, technical skills, and professional experience. 
-Designed with clean UX/UI principles, SnapZora acts as a central hub for recruiters, collaborators, and visitors to explore my work.
-
 🛠️ **Tech Stack**
 
 🔹 **Frontend**
@@ -26,3 +23,4 @@ Designed with clean UX/UI principles, SnapZora acts as a central hub for recruit
 ```bash
 git clone https://github.com/your-username/snapzora.git
 cd snapzora
+
